@@ -711,22 +711,6 @@ Potential extensions include:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-See `LICENSE` for details.
-
----
-
-## 👨‍💻 Author
-
-**Atharva Sawant**
-
-GitHub: `@atharva481`
-
----
-
 ## ⭐ Support
 
 If you find this project useful or interesting, consider giving the repository a ⭐.
